@@ -6,11 +6,11 @@ title: FP-XTEC
 
 <ul class="list-group">
  <li class="list-group-item">
-        <a href="https://drive.google.com/drive/folders/1AjTh4Apbvyc7jfhH66XQtaC9imlFJJCH?usp=sharing">ASIX-5 -
+        <a href="https://docs.google.com/document/d/1pPjZi3nhle6FE6OObaMGxLlaynea9aCTHo2gmJTFIns/edit?usp=sharing">ASIX-5 -
             Fonaments de maquinari</a>
     </li>
     <li class="list-group-item">
-        <a href="https://drive.google.com/drive/folders/1-IFQZJaTLEFGVX-4tLbTHqIeOxlcoZDm?usp=sharing">ASIX-11 -
+        <a href="https://docs.google.com/document/d/1pPjZi3nhle6FE6OObaMGxLlaynea9aCTHo2gmJTFIns/edit?usp=sharing">ASIX-11 -
             Seguretat i
             alta disponibilitat</a>
     </li>
@@ -18,20 +18,20 @@ title: FP-XTEC
 
 <ul class="list-group">
 <li class="list-group-item">
-        <a href="https://drive.google.com/drive/folders/1DNg54eWiDxi4Ivwu0eqn38cVvEFAZu82?usp=sharing">DAW-4 - Llenguatges de marques i sistemes de gestió de la informació</a>
+        <a href="https://docs.google.com/document/d/1WpR-fn2zG37cIunh77Ym7LXCdCUpeP3NedMewQgOukU/edit?usp=sharing">DAW-4 - Llenguatges de marques i sistemes de gestió de la informació</a>
     </li>
   <li class="list-group-item">
-        <a href="https://drive.google.com/drive/folders/1D0-juGzO_5K5_r776h2VIkWljFPOIyXK?usp=sharing">DAW-5 - Entorns de desenvolupament</a>
+        <a href="https://docs.google.com/document/d/1KK4m6NVCE9s5ScMQGaj0INEUIGHifNxdLNoLpzkBHQ0/edit?usp=sharing">DAW-5 - Entorns de desenvolupament</a>
     </li>
     
 </ul>
 
 <ul class="list-group">
 <li class="list-group-item">
-        <a href="https://drive.google.com/drive/folders/1LfYsAHpnSeKB8OELpYYngf40MUkoQHAy?usp=sharing">SMX-6 - Seguretat informática</a>
+        <a href="https://docs.google.com/document/d/1CtoP-6ENNFSXDkuqDoWZpHMCyYZaFzmzreYJ5ZerQZA/edit?usp=sharing">SMX-6 - Seguretat informática</a>
     </li>
   <li class="list-group-item">
-        <a href="https://drive.google.com/drive/folders/1L3xeMH6EpTCvBGSF1UdXI9Jg2axjhpar?usp=sharing">SMX-8 - Aplicacions web</a>
+        <a href="https://docs.google.com/document/d/1WeqeJIalCd1fd-ay2pUoe1ihX0JVIuSYw9-8exrVink/edit?usp=sharing">SMX-8 - Aplicacions web</a>
     </li>
     
 </ul>

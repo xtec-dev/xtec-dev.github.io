@@ -43,14 +43,15 @@ title: FP-XTEC
 
 <ul class="list-group">
 <li class="list-group-item">
+        <a href="https://docs.google.com/document/d/1rcFciC9QomiV08VoHR40ZTcBzzehsiyDft2euRNbFlM/edit?usp=sharing">Ubuntu</a>
+    </li>
+<li class="list-group-item">
         <a href="https://github.com/fp-xtec">Github</a>
     </li>
   <li class="list-group-item">
         <a href="https://drive.google.com/drive/folders/1wOmufiUkVVntQcRaPM0n7KFyDMbCblS5?usp=sharing">Eines</a>
     </li>
-     <li class="list-group-item">
-        <a href="https://drive.google.com/drive/folders/1ba7KieQiN-vbTKkaucfJikBBAmNhaZUJ?usp=sharing">Màquines virtuals</a>
-    </li>
+     
     
 </ul>
 

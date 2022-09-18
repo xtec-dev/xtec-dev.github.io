@@ -1,5 +1,5 @@
 ---
-title: FP-XTEC
+title: fp-xtec.io
 ---
 
 <h1><a href="https://fp-xtec.github.io/">fp-xtec.github.io</a></h1>

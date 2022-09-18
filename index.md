@@ -2,8 +2,6 @@
 title: fp-xtec.io
 ---
 
-<h1><a href="https://fp-xtec.github.io/">fp-xtec.github.io</a></h1>
-
 <h4>Moduls</h4>
 
 <ul class="list-group">

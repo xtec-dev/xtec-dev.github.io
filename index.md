@@ -14,7 +14,7 @@ title: fp-xtec.io
     </li>
 </ul>
 
-<ul class="list-group">
+<ul class="list-group mt-4">
 <li class="list-group-item">
         <a href="https://docs.google.com/document/d/1WpR-fn2zG37cIunh77Ym7LXCdCUpeP3NedMewQgOukU/edit?usp=sharing">DAW-4 - Llenguatges de marques i sistemes de gestió de la informació</a>
     </li>
@@ -24,7 +24,7 @@ title: fp-xtec.io
     
 </ul>
 
-<ul class="list-group">
+<ul class="list-group mt-4">
 <li class="list-group-item">
         <a href="https://docs.google.com/document/d/1CtoP-6ENNFSXDkuqDoWZpHMCyYZaFzmzreYJ5ZerQZA/edit?usp=sharing">SMX-6 - Seguretat informática</a>
     </li>

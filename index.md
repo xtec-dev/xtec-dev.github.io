@@ -2,8 +2,6 @@
 title: fp-xtec.io
 ---
 
-<h4>Moduls</h4>
-
 <ul class="list-group">
  <li class="list-group-item">
         <a href="https://docs.google.com/document/d/1DK_FfeSj4UJrH99xkh7thOX4r3xXZV_U_lKhXUnbQ-U/edit?usp=sharing">ASIX-5 -
@@ -36,20 +34,6 @@ title: fp-xtec.io
     
 </ul>
 
-
-<h4>Recursos</h4>
-
-<ul class="list-group">
-<li class="list-group-item">
-        <a href="https://docs.google.com/document/d/1rcFciC9QomiV08VoHR40ZTcBzzehsiyDft2euRNbFlM/edit?usp=sharing">Ubuntu</a>
-    </li>
-<li class="list-group-item">
-        <a href="https://github.com/fp-xtec">Github</a>
-    </li>
-  <li class="list-group-item">
-        <a href="https://drive.google.com/drive/folders/1wOmufiUkVVntQcRaPM0n7KFyDMbCblS5?usp=sharing">Eines</a>
-    </li>
-     
     
 </ul>
 

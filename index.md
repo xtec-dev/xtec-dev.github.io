@@ -2,6 +2,8 @@
 title: fp-xtec.io
 ---
 
+<h2>Mòduls</h2>
+
 <ul class="list-group">
  <li class="list-group-item">
         <a href="https://docs.google.com/document/d/1DK_FfeSj4UJrH99xkh7thOX4r3xXZV_U_lKhXUnbQ-U/edit?usp=sharing">ASIX-5 -
@@ -15,13 +17,12 @@ title: fp-xtec.io
 </ul>
 
 <ul class="list-group mt-4">
-<li class="list-group-item">
+  <li class="list-group-item">
         <a href="https://docs.google.com/document/d/1WpR-fn2zG37cIunh77Ym7LXCdCUpeP3NedMewQgOukU/edit?usp=sharing">DAW-4 - Llenguatges de marques i sistemes de gestió de la informació</a>
     </li>
   <li class="list-group-item">
         <a href="https://docs.google.com/document/d/1KK4m6NVCE9s5ScMQGaj0INEUIGHifNxdLNoLpzkBHQ0/edit?usp=sharing">DAW-5 - Entorns de desenvolupament</a>
     </li>
-    
 </ul>
 
 <ul class="list-group mt-4">
@@ -34,3 +35,13 @@ title: fp-xtec.io
     
 </ul>
 
+<h2>Recursos</h2>
+
+<ul class="list-group mt-4">
+  <li class="list-group-item">
+        <a href="https://docs.google.com/document/d/1rcFciC9QomiV08VoHR40ZTcBzzehsiyDft2euRNbFlM/edit?usp=sharing">Màquina virtual</a>
+    </li>
+  <li class="list-group-item">
+        <a href="https://github.com/fp-xtec">Github</a>
+    </li>
+</ul>

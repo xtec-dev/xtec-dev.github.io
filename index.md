@@ -14,6 +14,10 @@ title: fp-xtec.io
             Seguretat i
             alta disponibilitat</a>
     </li>
+    <li class="list-group-item">
+        <a href="https://docs.google.com/document/d/1inaVYexhNHkPxaXHHya67KNjb-hBMESKeoeqbsAdIaM/edit?usp=sharing">ASIX-14 -
+            Projecte</a>
+    </li>
 </ul>
 
 <ul class="list-group mt-4">

@@ -2,7 +2,7 @@
 title: fp-xtec.io
 ---
 
-<h2>Mòduls</h2>
+<h3>ASIX</h3>
 
 <ul class="list-group">
  <li class="list-group-item">
@@ -15,10 +15,12 @@ title: fp-xtec.io
             alta disponibilitat</a>
     </li>
     <li class="list-group-item">
-        <a href="https://docs.google.com/document/d/1inaVYexhNHkPxaXHHya67KNjb-hBMESKeoeqbsAdIaM/edit?usp=sharing">ASIX-14 -
+        <a href="https://docs.google.com/document/d/139E742dAZCFSsY6iAVcM3mDh0XHtmVj8LJO9GRAo7-E/edit?usp=sharing">ASIX-14 -
             Projecte</a>
     </li>
 </ul>
+
+<h3>DAW</h3>
 
 <ul class="list-group mt-4">
   <li class="list-group-item">
@@ -29,6 +31,7 @@ title: fp-xtec.io
     </li>
 </ul>
 
+ <h3>SMX</h3>
 <ul class="list-group mt-4">
 <li class="list-group-item">
         <a href="https://docs.google.com/document/d/1CtoP-6ENNFSXDkuqDoWZpHMCyYZaFzmzreYJ5ZerQZA/edit?usp=sharing">SMX-6 - Seguretat informática</a>
@@ -36,10 +39,14 @@ title: fp-xtec.io
   <li class="list-group-item">
         <a href="https://docs.google.com/document/d/1WeqeJIalCd1fd-ay2pUoe1ihX0JVIuSYw9-8exrVink/edit?usp=sharing">SMX-8 - Aplicacions web</a>
     </li>
+    <li class="list-group-item">
+        <a href="https://docs.google.com/document/d/139E742dAZCFSsY6iAVcM3mDh0XHtmVj8LJO9GRAo7-E/edit?usp=sharing">SMX-14 -
+            Projecte</a>
+    </li>
     
 </ul>
 
-<h2>Recursos</h2>
+<h3>Recursos</h3>
 
 <ul class="list-group mt-4">
   <li class="list-group-item">
